@@ -1,0 +1,6 @@
+amount = eval(input("Enter amount to deposit -->"))
+print ("This is a breakdown of the deposit amount")
+print("1000 and",amount,"is",1000//amount)
+print("500 and",amount,"is",500//amount)
+print("200 and",amount,"is",200//amount)
+print("100 and",amount,"is",100//amount)
